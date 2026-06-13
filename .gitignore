@@ -1,0 +1,38 @@
+# CMake build output
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+
+# Compiled binaries and libraries
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+*.o
+*.pdb
+
+# Runtime AI engine / model files
+lc0.exe
+*.pb.gz
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# IDE/editor files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# OS metadata
+Thumbs.db
+.DS_Store
