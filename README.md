@@ -1,4 +1,4 @@
-# 3D Chess
+# 3D Chess - Semester Project
 
 3D Chess is a C++ chess application with an OpenGL-rendered board, interactive 3D pieces, complete move validation, and optional human-like AI play through Leela Chess Zero and Maia.
 
